@@ -1,0 +1,11 @@
+#include //if anything is to be included
+int // if any integer is to be defined
+float // if any decimal integer is needed
+
+void setup(){
+//put here anything related to setup that executes once
+}
+
+void loop(){
+//put here code to execute again and again in loop
+}
