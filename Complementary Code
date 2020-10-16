@@ -9,3 +9,7 @@ void setup(){
 void loop(){
 //put here code to execute again and again in loop
 }
+ 
+// In arduino ide by using two slash you can write a comment like this.
+/*This is type of comment which end only by writing star slash at end
+and slash star at start . This is end */
