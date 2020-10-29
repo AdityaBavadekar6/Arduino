@@ -4,7 +4,7 @@ and then open serial moniter that is icon button
 of a magnifing glass */
 
 void setup (){
-Serial.begin // Initialises serial communication
+Serial.begin(9600) // Initialises serial communication
 Serial.println('What is Your name Guy? :'); //This prints "What is your name Guy? : "
 While(Serial.begin == 0); // Waits until users input
 int Username = serial.parseInt();. //Stores input data in variable named "Username"
